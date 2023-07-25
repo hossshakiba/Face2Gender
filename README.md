@@ -2,6 +2,7 @@
 
 This project aims to develop a gender classification system using facial images based on state-of-the-art machine learning techniques. 
 The goal is to automatically predict the gender of individuals from facial features, which has various practical applications in human-computer interaction, marketing, and security systems.
+This project was undertaken as a course project for the "Pattern Recognition" course, under the guidance of Professor [Hassan Khotanlou](https://scholar.google.com/citations?user=5YX31NgAAAAJ&hl=en). The course provided valuable insights into the principles and applications of pattern recognition algorithms, which formed the foundation for the development of the gender classification system using machine learning. 
 
 > **NOTE:** For a detailed explanation of the project, including methodologies, experimental setup, and results, please refer to the full report provided in [report.pdf](ProjectReport.pdf).
 
