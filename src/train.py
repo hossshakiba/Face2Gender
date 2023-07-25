@@ -8,7 +8,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.decomposition import PCA
 from sklearn.metrics import classification_report
 
-from data import create_cropped_dataset, load_dataset
+from src.data import create_cropped_dataset, load_dataset
 
 
 def train_and_evaluate(images: np.ndarray, labels: np.ndarray, classifier: Any,

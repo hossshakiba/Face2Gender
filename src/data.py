@@ -4,7 +4,7 @@ import cv2
 import numpy as np
 from mtcnn.mtcnn import MTCNN
 
-from utils import extract_hog_features, extract_lbp_features
+from src.utils import extract_hog_features, extract_lbp_features
 
 
 def detect_faces(image_path: str) -> list:
